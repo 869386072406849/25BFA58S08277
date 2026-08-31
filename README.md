@@ -1,0 +1,15 @@
+# https://github.com/jnyer27/chirp/commit/ab00d980531ade067e6c18b871300b2cdfe058db
+# https://github.com/swe-train/kk7ds__chirp/commit/ab00d980531ade067e6c18b871300b2cdfe058db
+# https://github.com/bsefting/chirp-mygmrs/commit/ab00d980531ade067e6c18b871300b2cdfe058db
+# https://github.com/b3n4kh/chirp/commit/450cb2d347dfbc162dabba94af730ae0185b6b6b
+# https://github.com/rozhuk-im/chirp/commit/6718991b52440ed6d4a6f70b64841fe13c498f6d
+# https://github.com/b3n4kh/chirp/commit/ccd3cf8a65c074854145e36770c6304622f1d7a8
+# https://github.com/rozhuk-im/chirp/commit/913b271b42a7ca7b7b3fef4cc0c0f33edb3e5f04
+# https://github.com/FlyGoat/chirp-shx8800/commit/6718991b52440ed6d4a6f70b64841fe13c498f6d
+# https://github.com/kk7ds/chirp/commit/ab00d980531ade067e6c18b871300b2cdfe058db
+# https://github.com/Plextor52/Chirp/commit/ab00d980531ade067e6c18b871300b2cdfe058db
+# https://github.com/search?q=Baofeng+A58S&type=commits&p=6
+# https://github.com/search?q=Baofeng+A58S&type=commits&p=4
+# https://github.com/search?q=Baofeng+A58S&type=commits&p=3
+# https://github.com/search?q=Baofeng+A58S&type=commits&p=2
+# https://github.com/search?q=Baofeng+A58S&type=commits&p=1
